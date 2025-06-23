@@ -40,6 +40,17 @@ To build an intelligent healthcare system that enables:
 - Real-time doctor availability
 - Secure user authentication and role-based access
 - API integration with wearable health devices
+ 
+## 📁 Datasets
+
+All datasets used in this project are **self-created** and curated specifically for healthcare use cases. They are structured to support:
+
+-  Machine Learning tasks such as disease prediction and patient risk profiling
+-  Chatbot training for understanding common patient queries, symptoms, and medical terminology
+-  Appointment-related workflows including doctor availability and scheduling patterns
+
+These datasets reflect realistic healthcare scenarios and are tailored for research, development, and educational purposes within the scope of this project.
+
 
 ---
 
