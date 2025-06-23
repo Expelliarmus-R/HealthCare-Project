@@ -14,6 +14,8 @@ To build an intelligent healthcare system that enables:
 ##  Technologies Used
 
 - Python
+- PySpark
+- Big Data
 - Scikit-learn, XGBoost, Pandas, NumPy
 - Jupyter Notebook
 - MySQL 
